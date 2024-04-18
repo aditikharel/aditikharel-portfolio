@@ -22,7 +22,7 @@ const About = () => {
                         <p className="about__description">
                             Hello! I'm Aditi Kharel, a 3rd year engineering student at Pulchowk Campus, Nepal. I'm currently working as a Product Development and Customer Success Intern at echowin.<br /><br />
                             I love to code, write, and design. My current focus these days
-                            is on expanidng my portfolio by building more projects that I can add on here, as well as being a great team player at my current role.<br /><br />
+                            is on expanding my portfolio by building more projects that I can add on here, as well as being a great team player at my current role.<br /><br />
                             Here are a few technologies I’ve been working with recently:
                         </p>
                         <ul className="about__list">
